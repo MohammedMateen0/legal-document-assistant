@@ -92,11 +92,7 @@ Answer + Citations
 Streamlit UI
 ```
 
-Future version:
 
-```markdown
-![Architecture Diagram](images/architecture.png)
-```
 
 ---
 
@@ -349,11 +345,11 @@ I could not find that information in the documents.
 
 The application provides a chat-based legal assistant.
 
-### Example UI
+### UI
 
-```markdown
+
 ![Legal Assistant UI](images/streamlit_ui.png)
-```
+
 
 Place your screenshot in:
 
