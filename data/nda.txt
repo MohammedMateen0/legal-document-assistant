@@ -1,0 +1,25 @@
+NON-DISCLOSURE AGREEMENT
+
+SECTION 1: CONFIDENTIAL INFORMATION
+
+Confidential Information includes business plans, customer lists, financial records, software source code, technical documentation, and proprietary processes.
+
+SECTION 2: OBLIGATIONS
+
+The Receiving Party agrees not to disclose Confidential Information to any third party without prior written consent from the Disclosing Party.
+
+SECTION 3: TERM
+
+This Agreement shall remain effective for five (5) years from the Effective Date.
+
+SECTION 4: EXCEPTIONS
+
+Information shall not be considered confidential if it becomes publicly available through no fault of the Receiving Party or was already lawfully known before disclosure.
+
+SECTION 5: REMEDIES
+
+Any breach of this Agreement may result in injunctive relief, monetary damages, and any other remedies available under applicable law.
+
+SECTION 6: GOVERNING LAW
+
+This Agreement shall be governed by the laws of India.

@@ -1,0 +1,25 @@
+SERVICE AGREEMENT
+
+SECTION 1: SERVICES
+
+The Service Provider agrees to deliver software development and maintenance services as described in Schedule A.
+
+SECTION 2: PAYMENT TERMS
+
+The Client shall pay all invoices within thirty (30) days of receipt. Late payments may incur interest at one percent (1%) per month.
+
+SECTION 3: INTELLECTUAL PROPERTY
+
+All deliverables created under this Agreement shall become the property of the Client upon full payment.
+
+SECTION 4: TERMINATION
+
+Either party may terminate this Agreement with sixty (60) days written notice. Immediate termination is permitted in the event of a material breach.
+
+SECTION 5: LIABILITY
+
+Neither party shall be liable for indirect, incidental, or consequential damages arising from this Agreement.
+
+SECTION 6: DISPUTE RESOLUTION
+
+Any disputes arising under this Agreement shall first be resolved through mediation before legal proceedings are initiated.
